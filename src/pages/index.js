@@ -15,7 +15,7 @@ export default function Home() {
         <meta name="description" content="Heylaw" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Navbar/>
+      <Navbar />
       <Section />
       <Konsultasi />
       <Layanan />

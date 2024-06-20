@@ -23,13 +23,13 @@ export default function Navbar() {
             <ul class="flex flex-col p-4 mt-4 bg-gray-50  md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium ">
               <li>
                 <Link
-                  href="#"
+                  href="/"
                   className="font-bold px-2 pb-3 border-b-2  border-green text-black"
                 >Home</Link>
               </li>
               <li>
                 <Link
-                  href="#"
+                  href="/tentangkami"
                   className=" font-bold px-2 pb-3 border-b-2 border-transparent hover:border-green text-grey"
                 >
                   Tentang kami
