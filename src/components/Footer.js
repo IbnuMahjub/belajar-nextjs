@@ -26,13 +26,13 @@ export default function Footer() {
               <h1 className="text-lg font-semibold text-grey mb-10">Tentang Kami</h1>
               <ul className="text-grey">
                 <li>
-                  <a href="#" class="mb-10 inline-block text-lg font-semibold">FAQ</a>
+                  <a href="#" className="mb-10 inline-block text-lg font-semibold">FAQ</a>
                 </li>
                 <li>
-                  <a href="#" class="mb-14 inline-block text-lg font-semibold">Kontak Kami</a>
+                  <a href="#" className="mb-14 inline-block text-lg font-semibold">Kontak Kami</a>
                 </li>
                 <li>
-                  <a href="#" class="mb-5 inline-block text-lg font-semibold">Syarat & Ketentuan</a>
+                  <a href="#" className="mb-5 inline-block text-lg font-semibold">Syarat & Ketentuan</a>
                 </li>
               </ul>
             </div>
@@ -41,7 +41,7 @@ export default function Footer() {
               <ul className="">
                 <li>
                   <a>
-                    <Image src={Playstore} className="mb-8"/>
+                    <Image src={Playstore} className="mb-8" />
                   </a>
                 </li>
                 <li>

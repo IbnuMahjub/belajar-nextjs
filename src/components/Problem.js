@@ -9,13 +9,13 @@ export default function Problem() {
   return (
     <div>
       <section className="bg-white">
-        <div clasName="container">
+        <div className="container">
           <div className="flex flex-wrap px-10">
             <div className="pt-6 w-full self-center px-10 lg:w-1/2 mb-10">
-              <Image src={Timbang}/>
+              <Image src={Timbang} />
               <h1 className="pt-6 text-2xl font-bold"><span className='text-green'>Selesaikan Masalah</span> Anda dengan</h1>
               <h2 className="text-2xl font-bold">Konsultan Hukum terpercaya kami</h2>
-              <p class="pt-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores nesciunt omnis perferendis reiciendis, quibusdam quia corporis obcaecati iure veritatis est eos blanditiis nobis ad sapiente sint aut placeat cupiditate facere. Neque nam explicabo inventore illum cum iusto, reprehenderit dolores ipsum!</p>
+              <p className="pt-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores nesciunt omnis perferendis reiciendis, quibusdam quia corporis obcaecati iure veritatis est eos blanditiis nobis ad sapiente sint aut placeat cupiditate facere. Neque nam explicabo inventore illum cum iusto, reprehenderit dolores ipsum!</p>
               <a href="#">
                 <Image src={Playstore} className="pt-10" />
               </a>
