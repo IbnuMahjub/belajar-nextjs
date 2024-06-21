@@ -6,7 +6,6 @@ import Konsul from 'assets/konsultasi.png';
 import Kontrak from 'assets/kontrak.png';
 import Kamus from 'assets/kamus.png';
 import Layanan from 'assets/Group 32.png';
-import Footer from 'components/Footer';
 
 export default function TentangKami() {
     return (
@@ -76,7 +75,6 @@ export default function TentangKami() {
                     </div>
                 </div>
             </div>
-            <Footer />
         </div>
     );
 }

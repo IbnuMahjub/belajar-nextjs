@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import Hero from 'assets/hero.png'
-import Btnchat from 'assets/chat.png'
+import Hero from '../../public/assets/hero.png'
+import Btnchat from '../../public/assets/chat.png'
 import React from 'react'
 
 export default function Section() {

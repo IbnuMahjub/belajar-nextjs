@@ -21,7 +21,6 @@ export default function Home() {
       <Layanan />
       <Problem />
       <Question />
-      <Footer />
     </div>
   )
 }

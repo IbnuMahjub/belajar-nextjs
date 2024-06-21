@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import Timbang from 'assets/timbang.png'
-import Chat from 'assets/chat1.png'
-import Playstore from 'assets/playstore.png'
+import Timbang from '../../public/assets/timbang.png'
+import Chat from '../../public/assets/chat1.png'
+import Playstore from '../../public/assets/playstore.png'
 import Link from 'next/link'
 
 export default function Problem() {

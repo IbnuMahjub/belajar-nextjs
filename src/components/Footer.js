@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import React from 'react'
-import Logo from 'assets/logo.png'
-import Playstore from 'assets/playstore.png'
-import Facebook from 'assets/facebook 1.png'
-import Youtube from 'assets/youtube 1.png'
-import Twitter from 'assets/twitter 1.png'
-import Instagram from 'assets/instagram 1.png'
+import Logo from '../../public/assets/logo.png'
+import Playstore from '../../public/assets/playstore.png'
+import Facebook from '../../public/assets/facebook 1.png'
+import Youtube from '../../public/assets/youtube 1.png'
+import Twitter from '../../public/assets/twitter 1.png'
+import Instagram from '../../public/assets/instagram 1.png'
 
 export default function Footer() {
   return (

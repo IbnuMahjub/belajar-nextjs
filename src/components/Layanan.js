@@ -1,7 +1,7 @@
 import React from 'react'
-import Konsul from 'assets/konsultasi.png'
-import Kontrak from 'assets/kontrak.png'
-import Kamus from 'assets/kamus.png'
+import Konsul from '../../public/assets/konsultasi.png'
+import Kontrak from '../../public/assets/kontrak.png'
+import Kamus from '../../public/assets/kamus.png'
 import Image from 'next/image'
 
 export default function Layanan() {

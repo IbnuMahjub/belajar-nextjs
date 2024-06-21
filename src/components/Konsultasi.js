@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Hp from 'assets/hp.png'
+import Hp from '../../public/assets/hp.png'
 
 export default function Konsultasi() {
   return (

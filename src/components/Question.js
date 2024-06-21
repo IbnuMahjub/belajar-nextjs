@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Pict from 'assets/question.png'
+import Pict from '../../public/assets/question.png'
 import React from 'react'
 
 export default function Question() {
